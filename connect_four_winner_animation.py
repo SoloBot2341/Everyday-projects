@@ -1,3 +1,6 @@
+#This code is not needed to run the connect four game.
+
+
 import pygame
 import os
 
